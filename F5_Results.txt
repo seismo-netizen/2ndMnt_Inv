@@ -1,0 +1,48 @@
+L_c =
+
+    1.3748
+
+
+W_c =
+
+    1.2126
+
+
+tauc =
+
+    0.3089
+
+
+mv0 =
+
+    1.1598
+
+
+dir =
+
+    0.2606
+
+
+v0 =
+
+    0.1502
+    1.1500
+
+
+v0_up =
+
+   -0.8273
+
+
+v0_east =
+
+   -0.4504
+
+
+v0_north =
+
+    0.6767
+
+Best Stress Drop is 2.0356 (MPa)
+Upper bound Stress Drop is 2.0459 (MPa)
+Lower bound Stress Drop is 2.0255 (MPa)
